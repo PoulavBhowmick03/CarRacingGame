@@ -1,4 +1,7 @@
 # Car Race
+## Play the game at 
+https://poulavbhowmick03.github.io/CarRacingGame/
+
 A game based on HTML, CSS and JavaScript
 
 ## How to Play the Game? 
